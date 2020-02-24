@@ -1,1 +1,5 @@
 .idea/
+/src/com/gihub/hexahedron/Main_Hyperspace/
+/src/com/gihub/hexahedron/SpawnScoreBoard/
+/src/com/gihub/hexahedron/BlockEvent/
+/src/com/gihub/hexahedron/PlayerJoinAndQuit/
